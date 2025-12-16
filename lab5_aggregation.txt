@@ -1,0 +1,48 @@
+total_abonnes
+8
+moyenne_emprunts
+1.6000
+abonne_id	nbre_emprunts
+1	1
+3	1
+6	3
+7	1
+12	2
+auteur_id	total_ouvrages
+1	7
+2	5
+3	6
+abonne_id	nbre_emprunts
+6	3
+auteur_id	total_ouvrages
+1	7
+3	6
+nom	emprunts
+Salma Laouy	1
+Hiba Ouirouane	0
+Asma Laouy	1
+Karim	0
+Samir	3
+Karim	1
+Karim	2
+Lucie	0
+nom	total_emprunts
+Victor Hugo	3
+Albert Camus	0
+J.K. Rowling	5
+pct_ouvrages_empruntes
+44.44
+nom	nbre_emprunts
+Samir	3
+Karim	2
+Asma Laouy	1
+jour_semaine	total
+1	4
+4	1
+5	2
+6	1
+mois	total
+6	2
+12	6
+ouvrages_jamais_empruntes
+16
