@@ -2,7 +2,7 @@
 
 
 ## Script SQL
-```
+```sql
 USE bibliotheque;
 
 -- Nombre total d’abonnés
@@ -181,7 +181,7 @@ ouvrages_jamais_empruntes
  
 ```
 ## Script SQL de l'exercice:
-```
+```sql
 USE bibliotheque;
 
 -- ======================================
